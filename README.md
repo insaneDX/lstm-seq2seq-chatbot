@@ -48,8 +48,10 @@ or start interactive chat:
 * chat(model, word2idx, idx2word, device)
 
 ## **File Structure**
-LSTM Seq2Seq Chatbot.ipynb   # Main notebook
-README.md                    # Documentation
+
+* LSTM Seq2Seq Chatbot.ipynb &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main notebook
+
+* README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Documentation
 
 ## **Requirements**
 * Python 3+
